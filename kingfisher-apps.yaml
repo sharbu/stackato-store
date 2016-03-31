@@ -4,7 +4,7 @@ store:
   icon: https://github.com/sharbu/stackato-store/blob/master/kf.png
 
 apps:
-- name: Ace Editor
+- name: My Lovely Editor
   id: ace
   desc: Ace is a standalone code editor written in JavaScript, used by Cloud9 IDE.
   framework: node
@@ -16,7 +16,7 @@ apps:
   icon: default
   mem: 128
 
-- name: Bloodhound
+- name: I Love Docker
   id: bloodhound
   desc: Manage software products; Keep track of features, tasks and bugs
   framework: python
