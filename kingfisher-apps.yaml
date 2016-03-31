@@ -1,7 +1,7 @@
 store:
-  title: Kingfisher Apps for Stackato
+  title: Test Apps for Stackato
   contact: Stuart <stuart.hartley@kingfisher.com>
-  icon: https://gitlab.kfplc.com/iaas/kingfisher-app-store/blob/master/kf.png
+  icon: https://github.com/sharbu/stackato-store/blob/master/kf.png
 
 apps:
 - name: Ace Editor
