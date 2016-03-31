@@ -1,7 +1,7 @@
 store:
   title: Test Apps for Stackato
   contact: Stuart <stuart.hartley@kingfisher.com>
-  icon: https://github.com/sharbu/stackato-store/blob/master/kf.png
+  icon: https://raw.githubusercontent.com/sharbu/stackato-store/master/kf.png
 
 apps:
 - name: My Lovely Editor
