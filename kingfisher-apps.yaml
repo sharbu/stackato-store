@@ -34,3 +34,15 @@ apps:
   info: https://github.com/Stackato-Apps/bottle-currency/#readme
   icon: https://get.stackato.com/store/icon/docker-logo.png
   mem: 128
+
+- name: Kingfisher CandC
+  id: kftest
+  desc: This is not a real thing
+  framework: node
+  runtime: node
+  license: MPL
+  commit: stackato-3.6
+  src: https://github.com/Stackato-Apps/ace.git
+  info: https://github.com/Stackato-Apps/ace/#readme
+  icon: https://raw.githubusercontent.com/sharbu/stackato-store/master/kf.png
+  mem: 128
