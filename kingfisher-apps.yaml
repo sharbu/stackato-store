@@ -44,5 +44,5 @@ apps:
   commit: stackato-3.6
   src: https://github.com/Stackato-Apps/ace.git
   info: https://github.com/Stackato-Apps/ace/#readme
-  icon: https://raw.githubusercontent.com/sharbu/stackato-store/master/kf.png
+  icon: https://raw.githubusercontent.com/sharbu/stackato-store/master/kf_icon_small.png
   mem: 128
