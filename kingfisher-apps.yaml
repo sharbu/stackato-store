@@ -1,0 +1,36 @@
+store:
+  title: Kingfisher Apps for Stackato
+  contact: Stuart <stuart.hartley@kingfisher.com>
+  icon: https://gitlab.kfplc.com/iaas/kingfisher-app-store/blob/master/kf.png
+
+apps:
+- name: Ace Editor
+  id: ace
+  desc: Ace is a standalone code editor written in JavaScript, used by Cloud9 IDE.
+  framework: node
+  runtime: node
+  license: MPL
+  commit: stackato-3.6
+  src: https://github.com/Stackato-Apps/ace.git
+  info: https://github.com/Stackato-Apps/ace/#readme
+  icon: default
+  mem: 128
+
+- name: Bloodhound
+  id: bloodhound
+  desc: Manage software products; Keep track of features, tasks and bugs
+  framework: python
+  runtime: python27
+  services: mysql
+  license: Apachev2
+  commit: stackato-3.6
+  src: https://github.com/Stackato-Apps/bloodhound.git
+  info: https://github.com/Stackato-Apps/bloodhound/#readme
+  icon: https://get.stackato.com/store/icon/bloodhound.png
+  mem: 512
+  license: MIT
+  commit: stackato-docker
+  src: https://github.com/Stackato-Apps/bottle-currency.git
+  info: https://github.com/Stackato-Apps/bottle-currency/#readme
+  icon: https://get.stackato.com/store/icon/docker-logo.png
+  mem: 128
